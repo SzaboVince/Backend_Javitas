@@ -1,0 +1,12 @@
+.bal {
+  float: left;
+}
+
+.jobb {
+  float: right;
+}
+
+#kep{
+  width: 50%;
+  height: auto;
+}
